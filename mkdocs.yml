@@ -8,7 +8,7 @@ repo_name: Postdoc_OASIS
 repo_url: https://github.com/sformel-usgs/test_website_2024
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
+copyright: 'None'
 
 # Page tree
 nav:
